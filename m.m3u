@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 ,CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
+#EXTINF:-1 ,CANAL 11
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+#EXTINF:-1 ,AZTECA UNO OP3
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 ,AZTECA UNO OP4
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3801
+#EXTINF:-1 ,AZTECA UNO OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1923
+#EXTINF:-1 ,AZTECA UNO OP6
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1970
+#EXTINF:-1 ,azteca 7 OP 3
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 ,AZTECA 7 OP4
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3709
+#EXTINF:-1 ,AZTECA 7 OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1957
+#EXTINF:-1 ,AZTECA 7 OP 6
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1930
+#EXTINF:-1 ,AZTECA 7 INTER
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/yv4z9a.m3u8?s=M6Np3nHPkTd1PCxM9In7mQ&e=1628073533
+#EXTINF:-1 ,LAS ESTRELLA OP3
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1918
+#EXTINF:-1 ,CANAL 5 OP 3
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1 ,BANDAMAX SD
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=221&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 ,BANDAMAX OP2
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/2146
+#EXTINF:-1 ,CONECTA TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,DISTRITO COMEDIA OP 2
+http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/3738
+#EXTINF:-1 ,DISTRITO COMEDIA OP3
+https://chinolistas.000webhostapp.com/live/flux/HISTORY2/hls/index.m3u8
+#EXTINF:-1 ,DISTRITO COMEDIA OP4
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+#EXTINF:-1 ,DISTRITO COMEDIA OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/3285
+#EXTINF:-1 ,CENTRAL COMEDI LAT  
+http://blackghost.live/play/totalp2-718.php?c=340&p=3&k=black&f=.m3u8
+#EXTINF:-1 ,COMEDI CENTRAL HD
+http://201.220.141.118:8000/play/a066/index.m3u8 
+#EXTINF:-1 ,COMEDY CENTRAL HD OP 2
+http://158.69.62.208:8081/live/COMEDY_CENTRAL_HD/chunks.m3u8
+#EXTINF:-1 ,ANIMAL PLANET LAT 
+https://blackghost.live/play/tves12-718.php?c=5203 
+#EXTINF:-1, ANIMAL PLANET 
+http://201.220.141.118:8000/play/a0ew/index.m3u8
+#EXTINF:-1 ,CARTOON NETWORT LAT 
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/11878 
+#EXTINF:-1 ,CARTOON NETWOR
+http://201.220.141.118:8000/play/a00y/index.m3u8
+#EXTINF:-1 ,ESTRELLA TV LAT 
+https://estrellatv-roku.amagi.tv/playlist.m3u8 
+#EXTINF:-1 ,STAR CHANEL
+https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
+#EXTINF:-1 ,GALAVISION
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3826
+#EXTINF:-1 ,UNIVISION MIAMI
+http://51.81.83.56:8081/live/UnivisionNY/chunks.m3u8
+#EXTINF:-1 ,UNIVISION LOS ANGELES
+http://my.streamerstv.com:25461/maria/maria/485
+#EXTINF:-1 ,UNIVISION
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=1900000.m3u8
+#EXTINF:-1 ,PASIONES
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6493
+#EXTINF:-1 ,PASIONES OP2
+http://200.107.234.74:8000/play/a06p/index.m3u8
+#EXTINF:-1 ,RCN
+http://tv.hero.iptv.uno/UwvucL2728/8b2fdH8/19635
+#EXTINF:-1 ,RCN INTERNACIONAL
+https://qlobbidev.s.llnwi.net:443/bpk-tv/RCN/hls/RCN-audio_128049_spa=128000-video=1900000.m3u8
+#EXTINF:-1 ,RCN NOVELAS
+https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
+#EXTINF:-1 ,CHAVO DEL OCHO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 ,CHAPULIN COLORADO
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/348
+#EXTINF:-1 ,NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=" 
+#EXTINF:-1 ,LOS SIMPSON 
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 ,DRAGON BALL
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/345
+#EXTINF;-1 ,BOB ESPONJA
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/317
+#EXTINF:-1 ,DRAGON BALL Z
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/347
+#EXTINF:-1 ,DRAGON BALL GT
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/346
+#EXTINF:-1 ,DRAGON BALL SUPER
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/341
+#EXTINF:-1 ,CABALLEROS DEL ZODIACO
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/333
+#EXTINF;-1 ,FUTURAMA
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/351
+#EXTINF:-1 ,CORRECAMINOS
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/319
+#EXTINF:-1 ,MALCON EL DE ENMEDIO
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/358
+#EXTINF:-1 ,MARVEL
+http://ametv.xyz:25461/live/reystream/reystre24am7/56436.ts
+#EXTINF:-1 ,DISNEY PIXAR
+http://ametv.xyz:25461/live/reystream/reystre24am7/56444.ts
+#EXTINF:-1 ,PLUTO ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO MTV PRANKS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.6716&deviceLon=-98.8178&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=1fcf5748-cd23-11eb-8f91-0242ac110002&sid=1fcf5748-cd23-11eb-8f91-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO HUMOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=bf28769c-cd23-11eb-8497-0242ac110002&sid=bf28769c-cd23-11eb-8497-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO COMEDY CENTRAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=d33f16fe-cd23-11eb-8382-0242ac110002&sid=d33f16fe-cd23-11eb-8382-0242ac110002&userId="
+#EXTINF:-1 ,DIRECT TV SPORT LAT 
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/43442 
+#EXTINF:-1 ,DIRECT TV SPORT 2 LAT
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/365 
+#EXTINF:-1 ,DIRECT TV SPORT PLUS 
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/43443 
+#EXTINF:-1 ,CLARO SPORT LAT
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8 
+#EXTINF:-1 ,CLARO SPORTS HD
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 ,CLARO SPORT 2 LAT 
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192058
+#EXTINF:-1 ,CLARO SPORT 2 OP2
+https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
+#EXTINF:-1 ,CLARO PORT 3
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 ,CLARO PORT 4
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
+#EXTINF:-1 ,WIN SPORT LAT  
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/512 
+#EXTINF:-1 ,WIN SPORT OP2
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1415
+#EXTINF:-1 ,WIN SPORT OP3
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1416
+#EXTINF:-1 ,WIN SPORT PLUS
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1417
+#EXTINF:-1 ,WIN SPORT PLUS OP2
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/26695
+#EXTINF:-1 ,WIN SPORT PLUS OP3
+https://t3l6qkta89mqd2g.p18.rt3.io/rtp/239.1.1.11:20040/canal20040
+#EXTINF:-1 ,WIN SPORT PLUS OP4
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1418
+#EXTINF:-1 ,WIN SPORT PLUS INTER
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/dcgmsy35q.m3u8?s=ks0utbdo_yyo3dkKKx2XGg&e=1628074372
+#EXTINF:-1 ,ESPN
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=168&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 ,ESPN OP2
+https://chinolistas.000webhostapp.com/live/espnmx.m3u8
+#EXTINF:-1 ,ESPN 2 OP2
+https://chinolistas.000webhostapp.com/live/espn2mx.m3u8
+#EXTINF:-1 ,ESPN 3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+#EXTINF:-1 ,ESPN 3 OP2
+https://chinolistas.000webhostapp.com/live/espn3mx.m3u8
+#EXTINF:-1 ,ESPN EXTRA
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 ,FOX SPORT OP 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORT 3 OP2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8 
+#EXTINF:-1 ,IZZIAFICIONADOS
+https://chinolistas.000webhostapp.com/live/afizzionados.m3u8
+#EXTINF:-1 ,LAS
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 ,TNT SPORT
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/31300
+#EXTINF:-1 ,93.3 FM
+https://14543.live.streamtheworld.com/XHQQ_FM_SC
+#EXTINF:-1 ,690 RG AM
+https://19303.live.streamtheworld.com/RG690_SC
+#EXTINF:-1 ,LA MEJOR 92.5 FM
+https://16643.live.streamtheworld.com/XHSROFM_SC
+#EXTINF:-1 ,LA CALIENTE 94.1
+https://14943.live.streamtheworld.com/XETFM_SC
+#EXTINF:-1 ,LA LUPE 105.3
+https://16693.live.streamtheworld.com/XHPAGFM_SC
+#EXTINF:-1 ,AZTECA CINEMA
+https://chinolistas.000webhostapp.com/live/flux/AZCINEMA/hls/index.m3u8
+#EXTINF:-1 ,ESTRELLA TELENOVELA 
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8 
+#EXTINF:-1 ,ESTRELLA TELENOVELA
+https://chinolistas.000webhostapp.com/live/flux/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1 ,DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 ,Discovery ID
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
+#EXTINF:-1 ,RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:-1 ,Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 ,TELEMUNDO INTERNACIONAL OP 2
+http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
+#EXTINF:-1 ,DISNEY XD OP2
+https://chinolistas.000webhostapp.com/live/flux/DISNEYXD/hls/index.m3u8
+#EXTINF:-1 ,DISNEY JR OP2
+https://chinolistas.000webhostapp.com/live/flux/DISNEYJUNIOR/hls/index.m3u8
+#EXTINF:-1 ,GOLDEN OP2
+https://chinolistas.000webhostapp.com/live/flux/GOLDEN/hls/index.m3u8
+#EXTINF:-1 ,GOLDEN EDGE OP2
+https://chinolistas.000webhostapp.com/live/flux/GEDGE/hls/index.m3u8
+#EXTINF:-1 ,PARAMOUNT
+https://chinolistas.000webhostapp.com/ottplayer/ztv.php/41511
+#EXTINF:-1 ,TNT SERIES OP2
+https://chinolistas.000webhostapp.com/live/tnt.m3u8
+#EXTINF:-1 ,GLITZ
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=76&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 ,NACIONAL GEOGRAPHIC CHANEL
+http://158.69.62.208:8081/live/NATGEO_HD/chunks.m3u8
+#EXTINF:-1 ,HISTORY LAT
+https://blackghost.live/play/totalp2-718.php?c=89&p=3&k=black&f=.m3u8 
+#EXTINF:-1 ,HISTORY PREMIUN
+http://158.69.62.208:8081/live/HISTORY_CHANNEL_HD/chunks.m3u8
+#EXTINF:-1 ,NAT GEO OP2
+https://chinolistas.000webhostapp.com/live/flux/NATGEO/hls/index.m3u8
+#EXTINF:-1 ,NAT NEO WILD OP 2
+http://158.69.62.208:8081/live/NATGEO_WILD_HD/chunks.m3u8
+#EXTINF:-1 ,MUSICA POP
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 ,VH1 HD
+http://my.streamerstv.com:25461/maria/maria/506
+#EXTINF:-1 ,HTV
+http://187.188.147.142:8000/play/a01j/index.m3u8
+#EXTINF:-1 ,LATINO UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,MUSICA TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,TV EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,MUSICA ROCK
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 ,MUSICA HITS
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
